@@ -18,7 +18,7 @@ function setup() {
   canvas.parent("p5-canvas-container");
 
   // ...except to adjust the dancer's name on the next line:
-  dancer = new YourNameDancer(width / 2, height / 2);
+  dancer = new YasmineDancer(width / 2, height / 2);
 }
 
 function draw() {
@@ -32,7 +32,7 @@ function draw() {
 
 // You only code inside this class.
 // Start by giving the dancer your name, e.g. LeonDancer.
-class YourNameDancer {
+class YasmineDancer {
   constructor(startX, startY) {
     this.x = startX;
     this.y = startY;
