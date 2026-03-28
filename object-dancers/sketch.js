@@ -32,7 +32,7 @@ function draw() {
 
 // You only code inside this class.
 // Start by giving the dancer your name, e.g. LeonDancer.
-class YasmineDancer {
+class YourNameDancer {
   constructor(startX, startY) {
     this.x = startX;
     this.y = startY;
